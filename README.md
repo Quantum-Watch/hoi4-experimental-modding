@@ -1,0 +1,2 @@
+# hoi4-experimental-modding
+A dumpster for all the messing around I do with hoi4 modding as I try and learn how to do it. I made this a github repository to share with friends in case they want to try out stuff I've made in case I want to share, or If I want to work on modding with others. It is possible that I turn the stuff on here into a proper mod or several mods, as this will not necessarily encompass just one mod idea I have.
