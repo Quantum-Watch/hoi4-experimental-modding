@@ -1,9 +1,5 @@
 #reload countrycolors
 
-CAF = {
-	color = HSV { 0 0 0 }
-	color_ui = rgb { 0 0 0 }
-}
 GER = {
 	color = HSV { 0.1 0.15 0.4 }
 	color_ui = rgb { 138 155 116 }
