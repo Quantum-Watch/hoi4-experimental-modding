@@ -10,5 +10,5 @@ tags={
 	"Military"
 	"Gameplay"
 }
-name="Shifting Hegemony"
+name="Hereafter"
 supported_version="1.9.2"
