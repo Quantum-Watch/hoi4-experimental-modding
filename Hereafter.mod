@@ -10,6 +10,6 @@ tags={
 	"Military"
 	"Gameplay"
 }
-name="Shifting Hegemony"
+name="Hereafter"
 supported_version="1.9.2"
-path="/home/parent/.local/share/Paradox Interactive/Hearts of Iron IV/mod/shiftinghegemony"
+path="/home/username/.local/share/Paradox Interactive/Hearts of Iron IV/mod/shiftinghegemony"
